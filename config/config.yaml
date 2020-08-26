@@ -1,0 +1,40 @@
+##########################
+# Default Configurations #
+##########################
+
+### Muon ID
+# muon_id: CutBasedIdTight_PFIsoTight
+# muon_id: CutBasedIdSoft_noISO
+# muon_id: CutBasedIdSoft_PFIsoMedium
+# muon_id: CutBasedIdSoft_PFIsoLoose
+muon_id: HZZ4l_MVABAsed
+
+### Coffea Futures Executor
+n_processors: 28
+chunksize: 36000
+max_chunks_per_dataset: 200
+
+### PBS Cluster Stuff
+celery_master_node_ip: 10.0.0.1 # dummy @ aite2
+redis_port: 4023
+queue: serial
+nodes: 1
+ppn: 1
+n_workers: 2
+concurrency: 20
+
+#######################
+# Modifiers per Setup #
+#######################
+
+# ### Configurations @ planck
+# data_location: /home2/drc01/chinella/ftaraujo/HZToUpsilonPhoton/ggntuples/HZUpsilonPhotonRun2/
+# n_processors: 10
+
+
+
+### Configurations @ aite2
+data_location: /home/ftorres/PLANCK/HZToUpsilonPhoton/ggntuples/HZUpsilonPhotonRun2
+n_processors: 28
+
+

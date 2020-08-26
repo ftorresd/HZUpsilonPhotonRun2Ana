@@ -1,0 +1,498 @@
+##########################
+# Trigger
+##########################
+datasets_mc_trigger:
+    - dataset_name: DYJetsToLL_M-50
+      data_or_mc: mc
+      year: "2016"
+
+    - dataset_name: DYJetsToLL_M-50
+      data_or_mc: mc
+      year: "2017"
+
+    - dataset_name: DYJetsToLL_M-50
+      data_or_mc: mc
+      year: "2018"
+    
+
+
+datasets_mc_analysis: 
+    ##########
+    #  2016  #
+    ##########
+    - dataset_name: ZToUpsilon1SGamma
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ZToUpsilon2SGamma
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ZToUpsilon3SGamma
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: "ZGTo2MuG_MMuMu-2To15"
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ggH_HToUps1SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: WmH_HToUps1SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ttH_HToUps1SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: WpH_HToUps1SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: VBFH_HToUps1SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ZH_HToUps1SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ggH_HToUps2SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: WmH_HToUps2SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ttH_HToUps2SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: WpH_HToUps2SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: VBFH_HToUps2SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ZH_HToUps2SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ggH_HToUps3SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: WmH_HToUps3SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ttH_HToUps3SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: WpH_HToUps3SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: VBFH_HToUps3SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: ZH_HToUps3SG
+      data_or_mc: mc
+      year: "2016"
+ 
+    - dataset_name: "GluGluHToMuMuG_M125_MLL-0To60_Dalitz_012j"
+      data_or_mc: mc
+      year: "2016"
+ 
+    ##########
+    #  2017  #
+    ##########
+    - dataset_name: ZToUpsilon1SGamma
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ZToUpsilon2SGamma
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ZToUpsilon3SGamma
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: "ZGTo2MuG_MMuMu-2To15"
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ggH_HToUps1SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: WmH_HToUps1SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ttH_HToUps1SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: WpH_HToUps1SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: VBFH_HToUps1SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ZH_HToUps1SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ggH_HToUps2SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: WmH_HToUps2SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ttH_HToUps2SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: WpH_HToUps2SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: VBFH_HToUps2SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ZH_HToUps2SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ggH_HToUps3SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: WmH_HToUps3SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ttH_HToUps3SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: WpH_HToUps3SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: VBFH_HToUps3SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: ZH_HToUps3SG
+      data_or_mc: mc
+      year: "2017"
+ 
+    - dataset_name: "GluGluHToMuMuG_M125_MLL-0To60_Dalitz_012j"
+      data_or_mc: mc
+      year: "2017"
+ 
+    ##########
+    #  2018  #
+    ##########
+    - dataset_name: ZToUpsilon1SGamma
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ZToUpsilon2SGamma
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ZToUpsilon3SGamma
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: "ZGTo2MuG_MMuMu-2To15"
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ggH_HToUps1SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: WmH_HToUps1SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ttH_HToUps1SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: WpH_HToUps1SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: VBFH_HToUps1SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ZH_HToUps1SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ggH_HToUps2SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: WmH_HToUps2SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ttH_HToUps2SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: WpH_HToUps2SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: VBFH_HToUps2SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ZH_HToUps2SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ggH_HToUps3SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: WmH_HToUps3SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ttH_HToUps3SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: WpH_HToUps3SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: VBFH_HToUps3SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: ZH_HToUps3SG
+      data_or_mc: mc
+      year: "2018"
+ 
+    - dataset_name: "GluGluHToMuMuG_M125_MLL-0To60_Dalitz_012j"
+      data_or_mc: mc
+      year: "2018"
+
+
+##########################
+# Data - SingleMuon
+##########################
+datasets_data_SingleMuon:
+    ##########
+    #  2016  #
+    ##########
+    - dataset_name: "Run2016B-17Jul2018_ver2"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2016C-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2016D-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2016E-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2016F-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2016G-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2016H-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: SingleMuon
+
+    ##########
+    #  2017  #
+    ##########
+    - dataset_name: "Run2017B-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2017C-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2017D-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2017E-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2017F-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: SingleMuon
+
+    ##########
+    #  2018  #
+    ##########
+    - dataset_name: "Run2018A-17Sep2018-v1"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2018B-17Sep2018-v1"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2018C-17Sep2018-v1"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: SingleMuon
+
+    - dataset_name: "Run2018D-PromptReco-v2"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: SingleMuon
+
+
+
+
+##########################
+# Data - MuonEG
+##########################
+datasets_data_MuonEG:
+    ##########
+    #  2016  #
+    ##########
+    - dataset_name: "Run2016B-17Jul2018_ver1"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2016B-17Jul2018_ver2"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2016C-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2016D-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2016E-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2016F-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2016G-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2016H-17Jul2018"
+      data_or_mc: data
+      year: "2016"
+      primary_dataset: MuonEG
+
+    ##########
+    #  2017  #
+    ##########
+    - dataset_name: "Run2017B-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2017C-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2017D-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2017E-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2017F-31Mar2018-v1"
+      data_or_mc: data
+      year: "2017"
+      primary_dataset: MuonEG
+
+    ##########
+    #  2018  #
+    ##########
+    - dataset_name: "Run2018A-17Sep2018-v1"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2018B-17Sep2018-v1"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2018C-17Sep2018-v1"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: MuonEG
+
+    - dataset_name: "Run2018D-PromptReco-v2"
+      data_or_mc: data
+      year: "2018"
+      primary_dataset: MuonEG
